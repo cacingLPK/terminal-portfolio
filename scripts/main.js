@@ -85,12 +85,10 @@ async function getInputValue(){
   // }
   else if(value === "who are you"){
     trueValue(value);
-    createText("Hi, My name is Aris K. Marantika ^^,")
-    createText("I am a full time worker at PANDI as System Administrator. I am responsible for maintaining the reliability and availability of the .id DNS service. ")
-    createText("I also do freelance project as Network Administrator, System Administrator, IT Support, and Site Reliable Engineer in my free time.")
-    createText("I can design, manage, and maintain physical infrastructure such as routers, switches, and servers. I understand how to run shared hosting systems, resource and capacity monitoring, local servers, and cloud servers. I understand some of today's popular technologies such as virtualization, containerization, continuous development, and automation.")
-    createText("Besides all that, I continue to develop my skills and knowledge to keep up with today's industry needs.")
-  }
+    createText("I am a System & Platform Administrator with DevOps expertise, passionate about building reliable, secure, and scalable IT ecosystems. My work bridges infrastructure and development, enabling faster, seamless, and automated application delivery.")
+    createText("With hands-on experience in system administration, network management, virtualization, and CI/CD automation, I help organizations transform complex infrastructure into a stable foundation that supports growth and innovation. I focus on efficiency, high availability, performance optimization, and security compliance, ensuring systems run at scale with minimal downtime.")
+    createText("Throughout my career, I have managed and optimized servers, databases, storage, DNS, and networks, while also implementing automation, clustering, and monitoring practices to strengthen resilience. I enjoy working with cross-functional teams, mentoring peers, and driving adoption of modern engineering workflows that enhance productivity and reliability.")
+    }
   else if(value === "contact"){
     trueValue(value);
     // createText("<a href='https://github.com/heberleonard2' target='_blank'><i class='fab fa-github white'></i> github.com/heberleonard2</a>")
