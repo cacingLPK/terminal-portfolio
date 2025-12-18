@@ -93,7 +93,7 @@ async function getInputValue(){
     trueValue(value);
     // createText("<a href='https://github.com/heberleonard2' target='_blank'><i class='fab fa-github white'></i> github.com/heberleonard2</a>")
     createText("<a href='https://www.linkedin.com/in/akrisnam/' target='_blank'><i class='fab fa-linkedin-in white'></i> LinkedIn</a>")
-    createText("<a href='mailto:hi@akm.web.id' target='_blank'><i class='fa fa-envelope white'></i> Email</a>")
+    createText("<a href='mailto:aris@marantika.id' target='_blank'><i class='fa fa-envelope white'></i> Email</a>")
   }
   else if(value === "contac"){
     trueValue(value);
