@@ -21,7 +21,7 @@ app.addEventListener("click", function(event){
 
 
 async function open_terminal(){
-  createText("Welcome to akm.web.id");
+  createText("Welcome to marantika.id");
   await delay(700);
   createText("Starting the server...");
   await delay(1500);
@@ -45,7 +45,7 @@ function new_line(){
   p.setAttribute("class", "path")
   p.textContent = "# you're";
   span1.textContent = " in";
-  span2.textContent = " ~/akm.web.id";
+  span2.textContent = " ~/marantika.id";
   p.appendChild(span1);
   p.appendChild(span2);
   app.appendChild(p);
